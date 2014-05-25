@@ -1,6 +1,5 @@
 # pair of functions that cache the inverse of a matrix.
 
-
 # makeCacheMatrix: return a list of functions to:
 # 1. Set the value of the matrix
 # 2. Get the value of the matrix
